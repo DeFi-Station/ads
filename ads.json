@@ -1,0 +1,16 @@
+{
+    "imageAds": [
+        {
+            "id": "ad1",
+            "imageUrl": "https://example.com/ad1.jpg",
+            "linkUrl": "https://example.com/product1",
+            "altText": "Ad for Product 1"
+        },
+        {
+            "id": "ad2",
+            "imageUrl": "https://example.com/ad2.jpg",
+            "linkUrl": "https://example.com/product2",
+            "altText": "Ad for Product 2"
+        }
+    ]
+}
