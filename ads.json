@@ -5,6 +5,7 @@
             "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner170x60px.png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
             "size": "170x60",
+            "position": "header",
             "altText": "Ledge wallet"
         },
         {
@@ -12,6 +13,7 @@
             "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner1000X200px.png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
             "size": "1000x200",   
+            "position": "pool-list",
             "altText": "Ledge wallet"
         },
         {
@@ -19,6 +21,7 @@
             "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner1600X360px-1.png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
             "size": "1600x360",
+            "position": "pool-list",
             "altText": "Ledge wallet"
         },
         {
@@ -26,6 +29,7 @@
             "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner1600X360px.png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
             "size": "1600x360",
+            "position": "pool-list",
             "altText": "Ledge wallet"
         }
     ]
