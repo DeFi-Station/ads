@@ -2,35 +2,43 @@
     "imageAds": [
         {
             "id": "banner1",
-            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner170x60px.png",
+            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner-Dez25-170x60(850x300).png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
             "size": "170x60",
             "position": "header",
-            "altText": "Ledge wallet"
+            "altText": "Ledger wallet - Banner Ads1"
         },
         {
             "id": "banner2",
-            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner1000X200px.png",
+            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner-Dez25-170x60(850x300)-2.png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
-            "size": "1000x200",   
-            "position": "pool-list",
-            "altText": "Ledge wallet"
+            "size": "170x60",
+            "position": "header",
+            "altText": "Ledger wallet - Banner Ads2"
         },
         {
             "id": "banner3",
-            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner1600X360px-1.png",
+            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner-Dez25-1600x360-1.png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
-            "size": "1600x360",
+            "size": "1600x300",   
             "position": "pool-list",
-            "altText": "Ledge wallet"
+            "altText": "Ledger wallet - Banner Ads1"
         },
         {
             "id": "banner4",
-            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner1600X360px.png",
+            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner-Dez25-1600x360-2.png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
             "size": "1600x360",
             "position": "pool-list",
-            "altText": "Ledge wallet"
+            "altText": "Ledger wallet - Banner Ads2"
+        },
+        {
+            "id": "banner5",
+            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner-Dez25-1600x360-3.png",
+            "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
+            "size": "1600x360",
+            "position": "pool-list",
+            "altText": "Ledger wallet - Banner Ads3"
         }
     ]
 }
