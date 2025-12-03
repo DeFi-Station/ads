@@ -2,7 +2,7 @@
     "imageAds": [
         {
             "id": "banner1",
-            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner-Dez25-170x60(850x300).png",
+            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner-Dez25-1000x200-1.png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
             "size": "170x60",
             "position": "header",
@@ -10,7 +10,7 @@
         },
         {
             "id": "banner2",
-            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner-Dez25-170x60(850x300)-2.png",
+            "imageUrl": "https://raw.githubusercontent.com/DeFi-Station/ads/main/images/Banner-Dez25-1000x200-2.png",
             "linkUrl": "https://shop.ledger.com/?r=f2f7ab9fd336",
             "size": "170x60",
             "position": "header",
